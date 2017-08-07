@@ -27,7 +27,7 @@ Below is the code I use to download sources of libnfc, compile and install them.
 
 ```bash
 wget https://github.com/nfc-tools/libnfc/releases/download/libnfc-1.7.1/libnfc-1.7.1.tar.bz2
-tar xvjf libnfc-1.7.0.tar.bz2
+tar xvjf libnfc-1.7.1.tar.bz2
 
 cd libnfc-1.7.0
 ./configure --prefix=/usr
